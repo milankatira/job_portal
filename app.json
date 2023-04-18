@@ -1,0 +1,28 @@
+{
+  "expo": {
+    "scheme": "acme",
+    "web": {
+      "bundler": "metro"
+    },
+    "name": "jobsift",
+    "slug": "jobsift",
+    "extra": {
+      "eas": {
+        "projectId": "39661d87-80ee-4103-a050-917773e5bff6"
+      }
+    },
+    "icon": "./assets/icon.png",
+    "ios": {
+      "icon": "./assets/icon.png",
+      "supportsTablet": true
+    },
+    "android": {
+      "icon": "./assets/icon.png",
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/icon.png",
+        "backgroundColor": "#FFFFFF"
+      },
+      "package": "com.milan_katira.jobsift"
+    }
+  }
+}
